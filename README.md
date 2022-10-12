@@ -31,30 +31,38 @@
 
 ## Projects
 
+<!--
 <img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Symfony-000000?logo=Symfony&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+-->
 
 - 👨‍💻 Person Verification Digital Platform\
 📅 2022 (Ongoing)\
 📍 Semester 5 Software Engineering Group Project
 
+<!--
 <img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+-->
 
 - 👨‍💻 News Website\
 📅 2022\
 📍 Semester 4 Software Engineering Group Project
 
+<!--
 <img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+-->
 
 - 👨‍💻 Human Resource Management System\
 📅 2022\
 📍 Semester 4 Database Management Systems Group Project
-  
+
+<!--
 <img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
+-->
 
 - 👨‍💻 Driver Assistant System\
 📅 2022\ 
