@@ -31,6 +31,8 @@
 
 [![Akila-I's GitHub stats](https://github-readme-stats.vercel.app/api?username=akila-i&theme=vision-friendly-dark)](https://github.com/akila-i/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akila-i&layout=compact&theme=vision-friendly-dark)](https://github.com/akila-i/github-readme-stats)
+
 </p>
 
 ---
