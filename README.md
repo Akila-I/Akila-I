@@ -1,30 +1,39 @@
-<h1 align="left">
-    Hi 👋, I'm Akila Induranga
+<h1 align="center">
+    Hi there 👋, I'm Akila Induranga
 </h1>
-
-<p align="left">
+<p align="center">
     <a href="https://www.linkedin.com/in/akila-i">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80"/>
     </a>
 </p>
 
-<h2 align="left">
-    ⚡ Technologies
-</h2>
+---
 
-<p align="left">
-    <img src="https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript" />
-    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
-    <img src="https://img.shields.io/badge/git-E44C30?style=flat-squar&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+<h3 align="center">
+    ⚡ Technologies & Tools
+</h3>
+
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
+<p align="center">
+
+[![Akila-I's GitHub stats](https://github-readme-stats.vercel.app/api?username=akila-i&theme=vision-friendly-dark)](https://github.com/akila-i/github-readme-stats)
+
+</p>
+
+---
 
 <details>
 <summary>📃 Résumé</summary>
