@@ -37,7 +37,7 @@
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 -->
 
-- 👨‍💻 Person Verification Digital Platform\
+- 👨‍💻 <a href="https://github.com/IdentityBlock">Person Verification Digital Platform</a>\
 📅 2022 (Ongoing)\
 📍 Semester 5 Software Engineering Group Project
 
@@ -46,7 +46,7 @@
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 -->
 
-- 👨‍💻 News Website\
+- 👨‍💻 <a href="https://github.com/Akila-I/world-wide-news">News Website</a>\
 📅 2022\
 📍 Semester 4 Software Engineering Group Project
 
@@ -55,7 +55,7 @@
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 -->
 
-- 👨‍💻 Human Resource Management System\
+- 👨‍💻 <a href="https://github.com/Akila-I/HRM">Human Resource Management System</a>\
 📅 2022\
 📍 Semester 4 Database Management Systems Group Project
 
@@ -64,7 +64,7 @@
 <img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
 -->
 
-- 👨‍💻 Driver Assistant System\
+- 👨‍💻 <a href="https://github.com/Akila-I/DriverAssistanceSystem-33kdp">Driver Assistant System</a>\
 📅 2022\ 
 📍 Semester 4 Programming Challenge Group Project
 
