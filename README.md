@@ -27,17 +27,10 @@
 
 ---
 
-<p align="center">
 
-[![Akila-I's GitHub stats](https://github-readme-stats.vercel.app/api?username=akila-i&theme=vision-friendly-dark)](https://github.com/akila-i/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akila-i&layout=compact&theme=vision-friendly-dark)](https://github.com/akila-i/github-readme-stats)
-
-</p>
 
 ---
 
-<details>
 <summary>📃 Résumé</summary>
 
 ## Projects
@@ -49,7 +42,7 @@
 -->
 
 - 👨‍💻 <a href="https://github.com/IdentityBlock">Person Verification Digital Platform</a>\
-📅 2022 (Ongoing)\
+📅 2022\
 📍 Semester 5 Software Engineering Group Project
 
 <!--
@@ -79,4 +72,3 @@
 📅 2022\ 
 📍 Semester 4 Programming Challenge Group Project
 
-</details>
