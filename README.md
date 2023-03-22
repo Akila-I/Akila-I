@@ -77,6 +77,6 @@
 
 
 - 👨‍💻 <a href="https://github.com/Akila-I/DriverAssistanceSystem-33kdp">Driver Assistant System</a>\
-📅 2022\ 
+📅 2022\
 📍 Semester 4 Programming Challenge Group Project
 
