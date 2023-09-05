@@ -25,6 +25,7 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+    <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" alt="VueJS" />&nbsp;
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp; -->
 <!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp; -->
     <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform" />&nbsp;
@@ -42,6 +43,13 @@
 ---
 
 ## Projects
+
+<img align="right" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
+
+
+- 👨‍💻 <a href="https://github.com/Akila-I/gsoc-2023">Adding a custom text color picker for Kolibri EPUB renderer</a>\
+📅 2023\
+📍 Google Summer of Code Individual Project
 
 
 <img align="right" src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black" />
