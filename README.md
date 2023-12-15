@@ -1,14 +1,34 @@
 <h1 align="center">
-    Hi there 👋, I'm Akila Induranga Gamage
+    Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Akila Induranga
 </h1>
 
+<h3 align="center">
+    Welcome to my profile
+</h3>
+
+<!-- Social icons section -->
 <p align="center">
-    <a href="https://www.linkedin.com/in/akila-i">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/akila-i" alt="linkedin">
+        <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/344/linkedin.png"/>
     </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <!-- Gmail -->
     <a href="mailto:akila.99g@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <img width="32px" alt="Gmail" title="Gmail" src="https://img.icons8.com/color/344/gmail.png">
     </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;    
+    <!-- Medium -->
+    <a href="https://medium.com/@akila-i">
+        <img width="32px" alt="Medium" title="Medium" src="https://img.icons8.com/color/344/medium-logo.png"/>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <!-- StackOverFlow -->
+    <a href="https://stackoverflow.com/users/16899162/akila-gamage">
+        <img width="32px" alt="StackOverFlow" title="StackOverflow" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+
 </p>
 
 ---
