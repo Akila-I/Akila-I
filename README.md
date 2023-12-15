@@ -34,22 +34,28 @@
 ---
 
 <h3 align="center">
-    ⚡ Technologies & Tools
+    Tools in hand 🛠️
 </h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" alt="Python"/>&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="NodeJS" />&nbsp;
-    <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" alt="Git" />&nbsp;
-    <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
-    <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />&nbsp;
-    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />&nbsp;
-    <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" alt="VueJS" />&nbsp;
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp; -->
-<!--     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp; -->
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform" />&nbsp;
-    <img src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black" alt="Solidity" />&nbsp;
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=blue"/>&nbsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>&nbsp;
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>&nbsp;
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white"/>&nbsp;
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white"/>&nbsp;
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"/>&nbsp;
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>&nbsp;
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>&nbsp;
+    <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D"/>&nbsp;
+    <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-800000.svg?logo=java&logoColor=white"/>&nbsp;
+    <img alt="AndroidStudio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"/>&nbsp;
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"/>&nbsp;
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white"/>&nbsp;
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-007FFF?logo=azuredevops"/>&nbsp;
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white"/>&nbsp;
+    <img alt="k8s" src="https://img.shields.io/badge/Kubernetes-3970e4?logo=kubernetes&logoColor=white"/>&nbsp;
+    <img alt="linux" src="https://img.shields.io/badge/Linux-ffcc33?logo=linux&logoColor=black"/>&nbsp;
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?logo=solidity&logoColor=black"/>&nbsp;
 </p>
 
 
